@@ -1,4 +1,4 @@
-# A python implementation of "A Portable Clustering Algorithm Based on Compact Neighbors for Face Tagging, neurocomputing, submitted"
+# A python implementation of "A Portable Clustering Algorithm Based on Compact Neighbors for Face Tagging, Neural Networks, submitted"
 
 ### install:
 python setup.py build_ext -i
